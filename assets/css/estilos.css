@@ -1,0 +1,43 @@
+.main-section {
+    background-image: url('../img/img-main.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.main-section-alquiler {
+    background-image: url('../img/propiedades_en_alquiler.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    text-align: center; 
+}
+
+.main-section-venta {
+    background-image: url('../img/propiedades_en_venta.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    text-align: center;
+}
+
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
